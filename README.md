@@ -1,2 +1,2 @@
-# XMLtoSQL
-Second test case for GeekForLess QA Courses from Vladymyr Nagornyi
+# CheckConnection
+Third test case for GeekForLess QA Courses from Vladymyr Nagornyi
